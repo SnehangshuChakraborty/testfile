@@ -1,0 +1,32 @@
+.top_bar{
+	background: #D8012B;
+	padding: 10px;
+}
+.social_links{
+	margin-right: 5px;
+}
+.button1{
+	background:#D8012B;
+	border: none;
+}
+.headimage{
+	padding-top: 20px;
+	width: 100%
+}
+.no_pad{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.category{
+	border: 1px solid #d6d8d8
+	-webkit-box-shadow: 1px 1px 5px #888888;
+    -moz-box-shadow: 1px 1px 5px #888888;
+     box-shadow: 1px 1px 5px #888888;
+}
+.button2{
+	float: right;
+	margin-top: 20px;
+}
+.cat-head{
+	padding-top: 15px;
+}
